@@ -2,7 +2,7 @@ README.md
 
 
 
-### Good day :coffee: :wave:
+### Hello :coffee: :wave:
 ![status](https://img.shields.io/badge/Current%20Status-Ready%20for%20coffee-brightgreen?style=for-the-badge&logo=appveyor)
 
 Welcome to my Github page! I have a first class honours in Software Engineering and I am currently learning Laravel and exploring the new features available in Vue 3.0! :star:
