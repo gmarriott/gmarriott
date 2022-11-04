@@ -5,7 +5,10 @@ README.md
 ### Hello :coffee: :wave:
 ![status](https://img.shields.io/badge/Current%20Status-Ready%20for%20coffee-brightgreen?style=for-the-badge&logo=appveyor)
 
-Welcome to my Github page! I have a first class honours in Software Engineering and I am currently learning Laravel and exploring the new features available in Vue 3.0! :star:
+Welcome to my Github page! I have a first class honours in Software Engineering and I am currently learning Laravel and exploring the new features available in React! :star:
+
+Current project: SpaceX launch viewer, a React and Typescript application for displaying details on all SpaceX launches:
+https://gmarriott.github.io/space-x-launch-viewer/ 🚀
 
 
 ---
