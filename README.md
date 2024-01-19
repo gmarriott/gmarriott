@@ -1,6 +1,3 @@
-README.md 
-
-
 
 ### Hello :coffee: :wave:
 ![status](https://img.shields.io/badge/Current%20Status-Ready%20for%20coffee-brightgreen?style=for-the-badge&logo=appveyor)
